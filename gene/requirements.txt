@@ -1,0 +1,4 @@
+omicverse==1.6.8
+torch_geometric==2.6.1
+bioservices==1.11.2
+torch
