@@ -1,0 +1,3 @@
+scikit-learn
+tensorboard
+thop==0.1.1.post2209072238
